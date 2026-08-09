@@ -1,0 +1,13 @@
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+
+# Terraform working/state artifacts
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Course-local scratch files
+course-scratch/
