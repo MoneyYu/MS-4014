@@ -3,7 +3,7 @@
 > [!WARNING]
 > **這份指南只適用於 July 2026 major refresh 版的 MS-4014。**
 > 請不要沿用舊版的 Graph connectors、declarative agents、舊 YouTube playlist、舊 labs，也不要把課程講成舊版的 Copilot extensibility / development-path 課。
-> 目前正式結構是 **3 個模組**、**3 小時 instructor-led core delivery（含 15 分鐘 break）**，而且互動方式以 Discussion、Activity、Try it 與選擇性 demo 為主。版本差異後續請對照 [version-change-notes.md](version-change-notes.md)（後續任務補檔）。
+> 目前正式結構是 **3 個模組**、**3 小時 instructor-led core delivery（含 15 分鐘 break）**，而且互動方式以 Discussion、Activity、Try it 與選擇性 demo 為主。版本差異請對照 [version-change-notes.md](version-change-notes.md)，詳細 legacy 說明與 migration notes 以該文件為準。
 
 > [!IMPORTANT]
 > 本文件是 trainer-only 備課內容。學員公開材料請維持在 [../README.md](../README.md)；不要把本文的 facilitation cue、Knowledge Check 解釋與版本風險提醒直接搬到學員版。
@@ -384,4 +384,4 @@ Trainer Prep Guide 同時給了「3-hour course（含 break）」與各段 compo
 - [M02 module page](https://learn.microsoft.com/en-us/training/modules/build-solutions-microsoft-agent-platform/)
 - [M03 module page](https://learn.microsoft.com/en-us/training/modules/plan-design-ai-agent-solution/)
 - [學員版 README](../README.md)
-- [版本差異說明（後續補檔）](version-change-notes.md)
+- [版本差異說明](version-change-notes.md)

@@ -9,7 +9,7 @@
 ## Audience boundaries
 - `README.md` is attendee-facing HackMD content.
 - `docs/` is trainer-only and Traditional Chinese; keep technical names and links in English.
-- `docs/teaching-guide.md` and `docs/version-change-notes.md` own legacy explanations and migration notes.
+- `docs/version-change-notes.md` owns detailed legacy explanations and migration notes; `docs/teaching-guide.md` may keep only a brief no-reuse warning and current-delivery safety context.
 - This is a conceptual Microsoft 365 course: do not add Terraform, demo-environment setup, or model/resource provisioning guidance to attendee materials.
 
 ## README rules

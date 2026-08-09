@@ -59,11 +59,11 @@ Course Survey: [https://aka.ms/ms4014survey](https://aka.ms/ms4014survey)
 
 [Microsoft 365 Agents Toolkit overview](https://learn.microsoft.com/en-us/microsoftteams/platform/toolkit/agents-toolkit-fundamentals)
 
-[M365 Agents SDK overview (replacement)](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/agents-sdk-overview)
+[M365 Agents SDK overview](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/agents-sdk-overview)
 
-[Foundry MCP tool connection (replacement)](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/model-context-protocol)
+[Foundry MCP tool connection](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/model-context-protocol)
 
-[Foundry A2A endpoint guidance (replacement)](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/agent-to-agent#host-an-a2a-compatible-agent-endpoint)
+[Foundry A2A endpoint guidance](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/tools/agent-to-agent#host-an-a2a-compatible-agent-endpoint)
 
 [Microsoft Agent Framework repo](https://github.com/microsoft/agent-framework)
 
