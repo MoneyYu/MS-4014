@@ -23,7 +23,6 @@ Course Survey: [https://aka.ms/ms4014survey](https://aka.ms/ms4014survey)
 :::
 
 ## Course Materials
-
 ### Learning path
 [Learning path (EN)](https://learn.microsoft.com/en-us/training/paths/build-foundation-extend-microsoft-365-copilot/)
 
@@ -44,7 +43,6 @@ Course Survey: [https://aka.ms/ms4014survey](https://aka.ms/ms4014survey)
 [ESI Support](https://esisupport.microsoft.com/en-US/)
 
 ## Links
-
 ### M01 - Introduction to developing AI agents
 [M01 module page](https://learn.microsoft.com/en-us/training/modules/introduction-develop-ai-agents/)
 
@@ -88,18 +86,18 @@ Course Survey: [https://aka.ms/ms4014survey](https://aka.ms/ms4014survey)
 
 ## Videos
 
-### M01 - Introduction to Developing AI Agents
+### M01 - Introduction to developing AI agents
 | No. | Name | Link |
 | --- | --- | --- |
 | 01-01 | What are AI agents? | https://youtu.be/3zgm60bXmQk |
 
-### M02 - Choose Tools and Services for Your Agent on Microsoft's Agent Platform
+### M02 - Choose tools and services for your agent on Microsoft's agent platform
 | No. | Name | Link |
 | --- | --- | --- |
 | 02-01 | Foundry Agent Service + Microsoft Agent Framework Explained | https://youtu.be/iR7_57lJOz8 |
 | 02-02 | Microsoft 365 Copilot \| Copilot Studio agent builder | https://youtu.be/uo-vCFL96yQ |
 
-### M03 - Plan an AI Agent Solution
+### M03 - Plan an AI agent solution
 | No. | Name | Link |
 | --- | --- | --- |
 | 03-01 | How Microsoft Engineers Build AI: Building and Evaluating Agents | https://youtu.be/opAIBSooW9g |
