@@ -101,7 +101,6 @@ Course Survey: [https://aka.ms/ms4014survey](https://aka.ms/ms4014survey)
 | No. | Name | Link |
 | --- | --- | --- |
 | 03-01 | How Microsoft Engineers Build AI: Building and Evaluating Agents | https://youtu.be/opAIBSooW9g |
-| 03-02 | Securing AI with Azure AI Foundry \| Built-in protections for Cloud & AI platforms | https://youtu.be/w3O1ZY_9lPg |
 
 ## What could be next?
 [Follow-on path: Develop AI Agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)

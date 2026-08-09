@@ -54,6 +54,27 @@ Trainer Prep Guide 同時給了「3-hour course（含 break）」與各段 compo
 | M03 knowledge check | 3–5 分鐘 | 因 Slides 91/92 的 deck notes 沒有 authoritative answer，若你還沒先驗證，就不要現場公布「標準答案」。 |
 | Conclusion | 10 分鐘 | 回收三件事：怎麼選平台、怎麼選 grounding / integrations、怎麼先規劃再 build。 |
 
+### 可直接執行的 180 分鐘標準 run-of-show
+
+> 下面這版是把 Trainer Prep Guide 的 component time budget 壓成「可在 3 小時內完成」的標準交付版；Knowledge Check 一律內嵌、互動分享採短回應，但 **M03 的 outcomes / workflow / identity / guardrails 收斂必須保留**。
+
+| 時間 | 分鐘 | 區段 | 交付方式 |
+| --- | ---: | --- | --- |
+| 00:00–00:10 | 10 | Intro | 版本警告、課程定位、互動規則、今日學習地圖。 |
+| 00:10–00:43 | 33 | M01 | 20 分鐘 presentation + 5 分鐘 Slide 8 Discussion + 5 分鐘 Slide 13 Activity + 3 分鐘 KC（Slide 18）。 |
+| 00:43–01:46 | 63 | M02 | 40 分鐘 presentation + 20 分鐘給 5 個 Discussion prompts（每題上限 4 分鐘）+ 3 分鐘 KC（Slides 54/55）。 |
+| 01:46–02:01 | 15 | Break | 固定保留。 |
+| 02:01–02:54 | 53 | M03 | 35 分鐘 presentation + 15 分鐘給 Slide 70 Discussion、Slide 78 Try it、Slide 90 Discussion + 3 分鐘 KC（Slides 91/92）。 |
+| 02:54–03:00 | 6 | Conclusion | 回收平台選擇、grounding / integration、planning-first 三條主線。 |
+| **Total** | **180** |  | **含 15 分鐘 break。** |
+
+#### 排程救援 / cut 順序（照這個順序做）
+
+1. **先縮 share-out，不先砍互動本體**：M01 Slide 8、M02 五題 Discussion、M03 Slide 70 / Slide 90 一旦超時，先改成 chat waterfall、pair response、舉手點 1 組口頭回報，而不是直接取消提問。
+2. **再嚴格 time-box M02 五題 prompts**：每題最多 4 分鐘；若時間再滑動，Slides 36 / 47 / 53 改成 60–90 秒 quick poll + trainer synthesis，但五題主題仍要點到。
+3. **再把三個模組的 KC 完全 inline 化**：不要另切小考段落，改用口頭快問快答、舉手或 chat A/B/C 收斂；Slides 91/92 仍維持 source-only facilitation，不公布未先驗證的 authoritative answer。
+4. **永遠不要把 M03 planning closure 整段省略**：真的落後時，優先砍 demo、縮結語句數、壓短前段分享；但至少要講完 outcomes / success metrics、workflow / interaction pattern、identity / guardrails / Responsible AI，讓學員帶著完整 blueprint 離場。
+
 ### 時間風險控制
 
 1. **先鎖低標，不鎖高標**：標準 3 小時班先按每段低標排；有額外時間再放大分享，不要反過來。
